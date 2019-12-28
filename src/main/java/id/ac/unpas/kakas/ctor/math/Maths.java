@@ -9,7 +9,7 @@ public class Maths {
 
 	// akar pangkat
 	public double sqrt(double n) {
-		double hasil = Math.sqrt(n);
-		return hasil;
+		
+		return Math.sqrt(n);
 	}
 }
