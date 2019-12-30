@@ -22,4 +22,11 @@ public class D implements PowInterface {
 		return n1 / n2;
 	}
 
+	@Override
+	public String toString() {
+		return "D []";
+	}
+	
+	
+
 }
